@@ -37,7 +37,7 @@
 
 #include "connection.h"
 
-#include "message_filters/message_traits.h"
+#include "ros2_message_filters/message_traits.h"
 #include <rclcpp/rclcpp.hpp>
 #include <memory>
 

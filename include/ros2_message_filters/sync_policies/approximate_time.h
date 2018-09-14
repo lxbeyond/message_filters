@@ -35,11 +35,11 @@
 #ifndef MESSAGE_FILTERS_SYNC_APPROXIMATE_TIME_H
 #define MESSAGE_FILTERS_SYNC_APPROXIMATE_TIME_H
 
-#include "message_filters/synchronizer.h"
-#include "message_filters/connection.h"
-#include "message_filters/null_types.h"
-#include "message_filters/signal9.h"
-#include "message_filters/message_traits.h"
+#include "ros2_message_filters/synchronizer.h"
+#include "ros2_message_filters/connection.h"
+#include "ros2_message_filters/null_types.h"
+#include "ros2_message_filters/signal9.h"
+#include "ros2_message_filters/message_traits.h"
 
 #include <rclcpp/rclcpp.hpp>
 #include <cassert>

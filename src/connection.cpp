@@ -32,7 +32,7 @@
 *  POSSIBILITY OF SUCH DAMAGE.
 *********************************************************************/
 
-#include "message_filters/connection.h"
+#include "ros2_message_filters/connection.h"
 
 namespace message_filters
 {
